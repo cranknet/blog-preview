@@ -21,9 +21,11 @@ body{
     flex-direction: column;
     background-color: var(--White);
     border-radius: 10px;
-    width: 40vw;
-    height: auto;
+    width: 50%;
     padding: 24px;
+    border-radius: 20px;
+    border: 1px solid var(--color-gray-950, #111);
+    box-shadow: 8px 8px 0px 0px #000;
 }
 .card img{
     width: 100%;
